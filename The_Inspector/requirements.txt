@@ -1,0 +1,10 @@
+chromadb
+requests
+sentence-transformers
+python-dotenv
+ollama
+langchain
+langchain-ollama
+pyshark
+fastapi
+uvicorn
