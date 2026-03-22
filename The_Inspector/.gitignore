@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# ChromaDB (dati locali)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Log files
+*.log
